@@ -1,4 +1,4 @@
-namespace HomeWork04.03.Web;
+namespace HomeWork0403.Web;
 
 public class Program
 {
